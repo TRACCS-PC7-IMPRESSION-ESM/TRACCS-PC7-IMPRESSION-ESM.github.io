@@ -25,6 +25,10 @@ When you add your publication on the HAL platform, please do mention ANR-22-EXTR
 <img src="{{site.baseurl}}/img/HAL-submission.png" width="100%" height="100%"/>
 </div>
 
+## Keeping track of IMPRESSION-ESM publications, communications and other activities
+
+For any publication or communication related to IMPRESSION-ESM, or any other activities conducted within the IMPRESSION-ESM framework or supported by IMPRESSION-ESM, please fill the following [form](https://docs.google.com/spreadsheets/d/1x27tLUxEigXMsqm-9Qvq5Rl8K5MtJERu/edit?usp=sharing&ouid=102129889214917241305&rtpof=true&sd=true). Note the first time, you will need to ask for file access.
+
 ## Mailing list
 
 All people involved in IMPRESSION-ESM, or wanting to stay inform about IMPRESSION-ESM activities, may join the project mailing list traccs-pc7@ipsl.fr. To do so, send an email to <a href="mailto:sympa@listes.ipsl.fr">sympa@listes.ipsl.fr</a> with the subject line "subscribe traccs-pc7". To unsubscribe, process similarly with "unsubscribe traccs-pc7" in the subject line. You may also use the [web interface](https://listes.ipsl.fr/sympa), if you already have an account on this server.
