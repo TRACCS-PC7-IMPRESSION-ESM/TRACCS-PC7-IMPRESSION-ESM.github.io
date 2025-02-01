@@ -25,9 +25,9 @@ When you add your publication on the HAL platform, please do mention ANR-22-EXTR
 <img src="{{site.baseurl}}/img/HAL-submission.png" width="100%" height="100%"/>
 </div>
 
-## Keeping track of IMPRESSION-ESM publications, communications and other activities
+## Keeping track of IMPRESSION-ESM activities
 
-For any publication or communication related to IMPRESSION-ESM, or any other activities conducted within the IMPRESSION-ESM framework or supported by IMPRESSION-ESM, please fill the following [form](https://docs.google.com/spreadsheets/d/1x27tLUxEigXMsqm-9Qvq5Rl8K5MtJERu/edit?usp=sharing&ouid=102129889214917241305&rtpof=true&sd=true). Note the first time, you will need to ask for file access.
+For any publication, communication or other activity related to, or supported by IMPRESSION-ESM, please fill the following [form](https://docs.google.com/spreadsheets/d/1x27tLUxEigXMsqm-9Qvq5Rl8K5MtJERu/edit?usp=sharing&ouid=102129889214917241305&rtpof=true&sd=true). Note that, the first time, you will need to ask for file access. You can also email <a href="mailto:romain.roehrig@meteo.fr">Romain Roehrig</a>.
 
 ## Mailing list
 
