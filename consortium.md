@@ -4,7 +4,13 @@ title: Consortium
 permalink: /consortium
 ---
 
-IMPRESSION-ESM is coordinated by Météo-France and project partners include CEA and CNRS. The research labs involved in IMPRESSION-ESM are:
+<div>
+<img src="{{site.baseurl}}/img/people.png" width="100%" />
+</div>
+
+<br/><br/> 
+
+IMPRESSION-ESM is coordinated by Météo-France and project partners include CEA and CNRS. The project connects aout 40 researchers working in the following research labs:
 - Centre National de Recherches Météorologiques ([CNRM](https://www.umr-cnrm.fr/));
 - Institut Pierre-Simon Laplace ([IPSL](https://www.ipsl.fr/en/home-en)), including [LMD](https://www.lmd.ipsl.fr/en/home-2/), [LOCEAN](https://www.locean.ipsl.fr/) and [METIS](https://www.metis.upmc.fr/);
 - Laboratoire des Sciences du Climat et de l'Environnement ([LSCE](https://www.lsce.ipsl.fr)); and 
