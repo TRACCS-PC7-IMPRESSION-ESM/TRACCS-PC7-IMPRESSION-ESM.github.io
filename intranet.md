@@ -14,8 +14,10 @@ or in French
 
 > Ce travail a bénéficié d'une aide de l'État gérée par l'Agence National de la Recherche au titre de France 2030 portant la référence **ANR-22-EXTR-0008**
 
-The following logos should be used in any communications:
-<img src="{{site.baseurl}}/img/RF-F2030.png" width="30%" height="20%" />
+The following logo should be used in any communication:
+<img src="{{site.baseurl}}/img/FR2030_Climat_Couleur_RVB.png" width="30%" height="20%" />
+
+A white version for use over dark backgrounds can be found [here]({{site.baseurl}}/img/FR2030_Climat_White_RVB.png).
 
 ## Adding publications on HAL
 
