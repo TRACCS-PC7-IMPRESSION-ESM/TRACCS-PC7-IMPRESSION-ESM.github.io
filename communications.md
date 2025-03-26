@@ -12,9 +12,17 @@ Bernard, E., R. Roehrig, B. Decharme, F. Couvreux, C. Delire, G. Canut, F. Lohou
 
 # 2024
 
+Conesa, P. 2024: Ice-sheet firn densification in Orchidee. *LSCE Snow discussions*, 5-6 December 2024, Saclay, France
+
+Amory, C. 2024: In situ documentation of snow metamorphism for model evaluation. *LSCE Snow discussions*, 5-6 December 2024, Saclay, France.
+
 Roehrig, R., M. Vancoppenolle, N. Jourdain, et al., 2024: The TRACCS-PC7 IMPRESSION-ESM project: Improving the physical process representation in Earth systems models. [*39th annual meeting of the WGNE*](https://www.wcrp-esmo.org/events/wgne39-wgsip25-annual-meetings), 4-8 November 2024, Toulouse, France. [Invited presentation](https://sdrive.cnrs.fr/s/cQojTq8jHCsDkqD)
 
-Voldoire A. et al., 2024: CMIP7 au CNRM-Cerfacs. *Journées CLIMERI "CMIP7 : pourquoi, comment ?"*, 3-4 octobre 2024, Toulouse, France. [Presentation](https://cloud.ipsl.fr/index.php/s/aRBxKEgQsMX9Hr6/download/17-CNRM-Cerfacs.pdf)
+Torres, R. et al. 2024: Energetically constrained mesoscale parameterizations in ocean global circulation models. [*Atelier sur la représentation des fines échelles océaniques dans les simulations numériques*](https://atelier-fines-ech.sciencesconf.org/), 9-11 October, Plouzané, France.
+
+de Lavergne, C., 2024: Modéliser le mélange océanique pour le climat. [*Atelier sur la représentation des fines échelles océaniques dans les simulations numériques*](https://atelier-fines-ech.sciencesconf.org/), 9-11 October, Plouzané, France.
+
+Voldoire, A. et al., 2024: CMIP7 au CNRM-Cerfacs. *Journées CLIMERI "CMIP7 : pourquoi, comment ?"*, 3-4 octobre 2024, Toulouse, France. [Presentation](https://cloud.ipsl.fr/index.php/s/aRBxKEgQsMX9Hr6/download/17-CNRM-Cerfacs.pdf)
 
 Roehrig, R., M. Lothon and F. Lohou, et al. 2024: Measured and Simulated Turbulent Flux Over Heterogeneous Landscapes: The Model and Observation for Surface Atmosphere Interactions (MOSAI) Project Experimental Campaigns. [*GEWEX Open Science Conference*](https://www.gewexevents.org/meetings/gewex-osc2024/), 8-12 July 2024, Sapporo, Japan. [Presentation](https://www.gewexevents.org/index.php?gf-download=2024%2F07%2FWed-Session07-1100_Roehrig_Romain.pdf&form-id=153&field-id=15&hash=0076ce948d041f8781e5438691d37aa429e59174d897cdb8ad68434295ab86d5)
 
