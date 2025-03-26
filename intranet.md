@@ -35,6 +35,8 @@ For any publication, communication or other activity related to, or supported by
 
 All people involved in IMPRESSION-ESM, or wanting to stay inform about IMPRESSION-ESM activities, may join the project mailing list traccs-pc7@ipsl.fr. To do so, send an email to <a href="mailto:sympa@listes.ipsl.fr">sympa@listes.ipsl.fr</a> with the subject line "subscribe traccs-pc7". To unsubscribe, process similarly with "unsubscribe traccs-pc7" in the subject line. You may also use the [web interface](https://listes.ipsl.fr/sympa), if you already have an account on this server.
 
+If you want to check who is on this mailing list, you may follow this [link](https://docs.google.com/spreadsheets/d/1Sub6M9Z0YFTDJDcX45degRiz_-a9XbDAc1cuDEvwhD4/edit?gid=0#gid=0). You will need to ask for access to Romain Roehrig.
+
 ## Project documents
 
 The project documents are accessible only upon request to <a href="mailto:romain.roehrig@meteo.fr">Romain Roehrig</a>:
