@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Iceberg and sea-ice workshop, 3-4 June 2025, Paris"
-date: 2025-07-18
+date: 2025-06-04
 ---
 
 

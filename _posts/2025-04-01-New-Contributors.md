@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to Arthur Jardot, Grégoire Pain and Sujith Krishnakumar!"
-date: 2025-07-18
+date: 2025-04-01
 ---
 
 Arthur Jardot has just started an intern position at CNRM to evaluate the capacity of a range of models (ARPEGE-Climat, LMDZ and km-scale Meso-NH) to represent the shallow-to-deep convection transition in four contrasted environnement.
