@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arthur Jardot, Grégoire Pain and Sujith Krishnakumar have just joined the IMPRESSION-ESM consortium"
+title: "Welcome to Arthur Jardot, Grégoire Pain and Sujith Krishnakumar!"
 date: 2025-07-18
 ---
 
