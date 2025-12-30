@@ -6,9 +6,26 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Dec 2025 10:10:58 +0100</pubDate>
-    <lastBuildDate>Tue, 30 Dec 2025 10:10:58 +0100</lastBuildDate>
+    <pubDate>Tue, 30 Dec 2025 10:57:37 +0100</pubDate>
+    <lastBuildDate>Tue, 30 Dec 2025 10:57:37 +0100</lastBuildDate>
     <generator>Jekyll v4.3.4</generator>
+    
+      <item>
+        <title>Vers une meilleure représentation de la fonte des glaces polaires dans les modèles de climat</title>
+        <description>&lt;p&gt;Il apparaît de plus en plus clair que l’eau douce rejetée par les calottes polaires dans l’océan lors de la fonte des plateformes de glace et des icebergs joue un rôle majeur dans les projections climatiques. La fonte a d’une part des effets sur la circulation océanique méridienne de retournement, avec des conséquences sur le climat global, et entre d’autre part dans des boucles de rétroactions positives qui renforcent la perte de masse des calottes polaires. Pourtant, quasiment aucun modèle de climat ne représente explicitement la dynamique des calottes polaires et leurs interactions avec l’atmosphère et l’océan. En attendant que les modèles de calotte soient couplés aux modèles de climat (objectif du Projet Ciblé 9 &lt;a href=&quot;https://pepr-traccs.fr/projet/pc9-isclim/&quot;&gt;ISCLIM&lt;/a&gt;), un consortium international (dont des membres des Projets Ciblés 7 &lt;a href=&quot;https://pepr-traccs.fr/projet/pc7-impression-esm/&quot;&gt;IMPRESSION-ESM&lt;/a&gt; et 9 &lt;a href=&quot;https://pepr-traccs.fr/projet/pc9-isclim/&quot;&gt;ISCLIM&lt;/a&gt;) a rassemblé des données et proposé une méthode visant à prescrire des anomalies de flux d’eau douce dans les modèles de climat sans calotte interactive (&lt;a href=&quot;https://doi.org/10.5194/gmd-18-8333-2025&quot;&gt;Schmidt et al., 2025&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;La fonte des icebergs dans l’océan Austral, dont celle utilisée par &lt;a href=&quot;https://doi.org/10.5194/gmd-18-8333-2025&quot;&gt;Schmidt et al. (2025)&lt;/a&gt;, est surtout estimée à partir de modèles Lagrangiens dont les particules sont émises dans l’océan aux fronts des plateformes de glace. Jusqu’à présent, les icebergs modélisés dans le modèle d’océan NEMO étaient émis avec une distribution d’épaisseur basée sur quelques observations assez anciennes. Dans une nouvelle étude du Projet Ciblé 7 &lt;a href=&quot;https://pepr-traccs.fr/projet/pc7-impression-esm/&quot;&gt;IMPRESSION-ESM&lt;/a&gt;, la façon de définir l’épaisseur des icebergs a été revisitée (&lt;a href=&quot;https://doi.org/10.1029/2025JC022857&quot;&gt;Olivé Abelló et al., 2025&lt;/a&gt;). Certains des icebergs modélisés atteignent désormais des épaisseurs de plus de 500 mètres, et sont bloqués par des hauts fonds, comme cela est observé sur les images satellitaires. Cette interaction des icebergs avec la bathymétrie tend à faire fondre les icebergs davantage sur le plateau continental qu’au large, néanmoins ces icebergs échoués provoquent le blocage de banquise (formation de glace de rive) et la formation de polynies (ouvertures dans la banquise). L’ensemble de ces processus change la stratification de l’océan Austral, avec des conséquences climatiques notables.&lt;/p&gt;
+
+&lt;p&gt;Enfin, si l’on peut déduire les taux de fonte sous les plateformes de glace des observations satellitaires, il est nécessaire de les modéliser pour estimer leur future évolution. Le modèle d’océan NEMO est, depuis une dizaine d’années, capable de modéliser la circulation océanique sous les plateformes de glace. Dans ce cas, l’échange thermodynamique entre la glace et l’océan repose sur une paramétrisation qui calcule le bilan de chaleur et de sel dans la couche limite supérieure de l’océan qui n’est pas résolue aux résolutions typiques des modèles de climat. Dans ce bilan, il est nécessaire de prendre en compte la chaleur latente de la fonte, mais aussi la conduction thermique et l’advection de chaleur par la glace, qui absorbent une partie de l’énergie océanique. Dans une étude associée au Projet Ciblé 9  &lt;a href=&quot;https://pepr-traccs.fr/projet/pc9-isclim/&quot;&gt;ISCLIM&lt;/a&gt;, &lt;a href=&quot;https://doi.org/10.5194/tc-19-3253-2025&quot;&gt;Wiskandt and Jourdain (2025)&lt;/a&gt; discutent les différentes approximations utilisées pour représenter ce flux de chaleur dans la glace. Le choix de l’approximation utilisée induit des différences de taux de fonte atteignant 28 %. La formulation tenant compte de l’advection verticale de la glace et de la diffusion verticale de la chaleur dans la glace représente le mieux les profils de température observés dans des trous de forage au travers des plateformes de glace.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;La newsletter TRACCS de décembre 2025&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 30 Dec 2025 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2025/12/30/FonteGlacesPolairesESM/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/12/30/FonteGlacesPolairesESM/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Why icebergs and their interactions with sea ice should be included in Earth system models?</title>
@@ -61,6 +78,19 @@ Several Earth system modeling groups are actively addressing these interactions,
         <pubDate>Mon, 17 Nov 2025 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2025/11/17/Snow-Workshop/</link>
         <guid isPermaLink="true">http://localhost:4000/2025/11/17/Snow-Workshop/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Process-Level Evaluation of the Land-Atmosphere Interactions Within CNRM-CM6-1 Single-Column Model Configuration</title>
+        <description>&lt;p&gt;Exchanges of water and energy at the interface between the surface and the atmosphere are still poorly represented in climate or numerical weather prediction models. First, improving the representation of these exchanges at the land-atmosphere interface is essential. Second, it’s important to evaluate the performance of current models by comparing their outputs with observations. To address these two goals, this study develops study cases using data from a measurement campaign conducted in southern France in June 2011. Four very different types of vegetation were selected on a clear-sky day: a grassland, a corn field, a wheat field, and a pine forest. Early summer is ideal for studying land-atmosphere exchanges, as vegetation is fully developed. The study provides detailed conditions for the simulations, including soil, surface, and atmospheric properties, as well as initial values such as soil temperature, humidity, and atmospheric temperature, humidity, wind, and pressure. These cases were tested on both low- and high-resolution models, showing promising results. The aim is for these cases to be used with different models to develop future improvements and validate performances.&lt;/p&gt;
+
+&lt;p&gt;More information in &lt;a href=&quot;https://doi.org/10.1029/2025MS005090&quot;&gt;Bernard et al. (2025)&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 16 Nov 2025 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2025/11/16/Bernard_etal2025/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/11/16/Bernard_etal2025/</guid>
         
         
       </item>
