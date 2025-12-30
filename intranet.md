@@ -49,6 +49,7 @@ The project documents are accessible only upon request to <a href="mailto:romain
     - 28 November 2024: [Discussion document](https://sdrive.cnrs.fr/f/125696234), [Report](https://sdrive.cnrs.fr/f/125698582)
     - 6 March 2025: [Discussion document](https://sdrive.cnrs.fr/f/187380244), [Report](https://sdrive.cnrs.fr/f/200987772)
     - 6 June 2025: [Discussion document](https://sdrive.cnrs.fr/f/302205191), [Report](https://sdrive.cnrs.fr/f/302205276)
+    - 8 December 2025: [Discussion document](https://sdrive.cnrs.fr/f/395277642), [Report](https://sdrive.cnrs.fr/f/395277641)
 
 ## Contribute to the website
 
