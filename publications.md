@@ -10,21 +10,31 @@ The IMPRESSION-ESM publication HAL collection can be found [here](https://hal.sc
 
 # Submitted
 
-Vancoppenolle, M., N. C. Jourdain, T. Fichefet, A. D. Fraser, F. Massonnet, P. Mathiot, G. Madec, C. Mehlmann, A. Olivé Abelló, D. P. Atwater, S. Berthet, C. Billy, A. Brearley, J. Delfieu, Y. Kostov, E. Lemaire, J. M. Marson, J. Petit, N. Pirlet, P. Wongpan, C. Burgard, C. de Lavergne, P. R. Holland, K. Hutchinson, M. Noël, E. Ortega, E. Piedagnel, P. Rampal, C. Rousset, J.-B. Sallée and M. Thomas, 2025: Why icebergs and their interactions with sea ice should be included in Earth system models? [preprint](https://hal.science/TRACCS-PC7-IMPRESSION-ESM/hal-05397165v1)
+Piton, V., H. Giordani, R. Bourdalle-Badie and C. Pelletier: First global assessment of the Eddy-Diffusivity Mass-Flux (EDMF) parameterization for oceanic convection in NEMO: implications for global temperature and surface heat fluxes. [preprint](https://doi.org/10.5194/egusphere-2026-640) [PDF](https://hal.science/hal-05529885v1)
 
-Krinner, G., A. Champouillon, J. Blanchet and F. Chéruy, 2025: Iterative run-time bias corrections in an atmospheric GCM (LMDZ v6.3). [preprint](https://doi.org/10.5194/egusphere-2025-3553)
+Conesa, P., C. Agosta, S. Charbit, C. Dumas, S. Beylat and N. Raoult: Dry snow initialization and densification over the Greenland and Antarctic ice sheets in the ORCHIDEE land surface model. [preprint](https://doi.org/10.5194/egusphere-2025-5504)
 
-Vignon, E., N. Chiabrando, C. Agosta, C. Amory, V. Wiener, J. Charrel, T. Dubos and C. Genthon, 2025: Intermediate-complexity Parameterisation of Blowing Snow in the ICOLMDZ AGCM: development and first applications in Antarctica, EGUsphere [preprint](https://doi.org/10.5194/egusphere-2025-2871)
+Dehondt, C., P. Braconnot, O. Marti and S. Fromang: AMOC sensitivity to air-sea fluxes parametrization.  [preprint](https://www.researchsquare.com/article/rs-8609373/v1)
 
-Vignon, E., L. Raillard, A. Borella, G. Rivière and J.-B. Madeleine, 2025: Modeling the Coupled and Decoupled states of Polar Boundary-Layer Mixed-Phase Clouds. [preprint](https://doi.org/10.5194/egusphere-2025-4641)
+Krinner, G., A. Champouillon, J. Blanchet and F. Chéruy: Iterative run-time bias corrections in an atmospheric GCM (LMDZ v6.3). [preprint](https://doi.org/10.5194/egusphere-2025-3553)
 
-Pirlet, N., T. Fichefet, M. Vancoppenolle, C. de Lavergne and N. Jourdain, 2025: Effects of a landfast ice representation on Antarctic shelf water properties and ice shelf melt simulated by NEMO4-SI3. [preprint](https://dx.doi.org/10.22541/essoar.176218943.36540527/v1) 
+Pirlet, N., T. Fichefet, M. Vancoppenolle, C. de Lavergne and N. Jourdain: Effects of a landfast ice representation on Antarctic shelf water properties and ice shelf melt simulated by NEMO4-SI3. [preprint](https://dx.doi.org/10.22541/essoar.176218943.36540527/v1) 
 
-Ortega, E., M. Vancoppenolle, C. Rousset and E. Lemaire, 2025: New Representation of Sea Ice Salt Dynamics within NEMO-SI3: Evaluation and Impacts. [preprint](https://dx.doi.org/10.22541/essoar.175882978.85357195/v1)
+Ortega, E., M. Vancoppenolle, C. Rousset and E. Lemaire: New Representation of Sea Ice Salt Dynamics within NEMO-SI3: Evaluation and Impacts. [preprint](https://dx.doi.org/10.22541/essoar.175882978.85357195/v1)
 
-Kostov, Y., P. R. Holland, K. A. Hogan, J. A. Smith, N. C. Jourdain, P. Mathiot, A. Olivé Abelló, A. H. Fleming and A. J. S. Meijers, 2025: Modelled dynamics of floating and grounded icebergs, with application to the Amundsen Sea. [preprint](https://doi.org/10.5194/egusphere-2025-2423)
+# 2026
+
+Vancoppenolle, M., N. C. Jourdain, T. Fichefet, A. D. Fraser, F. Massonnet, P. Mathiot, G. Madec, C. Mehlmann, A. Olivé Abelló, D. P. Atwater, S. Berthet, C. Billy, A. Brearley, J. Delfieu, Y. Kostov, E. Lemaire, J. M. Marson, J. Petit, N. Pirlet, P. Wongpan, C. Burgard, C. de Lavergne, P. R. Holland, K. Hutchinson, M. Noël, E. Ortega, E. Piedagnel, P. Rampal, C. Rousset, J.-B. Sallée and M. Thomas, 2025: Why icebergs and their interactions with sea ice should be included in Earth system models? *Bulletin of the American Meteorological Society*, in press. doi:[10.1175/BAMS-D-25-0322.1](https://doi.org/10.1175/BAMS-D-25-0322.1) [PDF](https://hal.science/TRACCS-PC7-IMPRESSION-ESM/hal-05397165v1)
+
+Kostov, Y., P. R. Holland, K. A. Hogan, J. A. Smith, N. C. Jourdain, P. Mathiot, A. Olivé Abelló, A. H. Fleming and A. J. S. Meijers, 2026: Modelled dynamics of floating and grounded icebergs, with application to the Amundsen Sea. *The Cryosphere*, **20**, 135-169. doi:[10.5194/tc-20-135-2026](https://doi.org/10.5194/tc-20-135-2026) [PDF](https://hal.science/hal-05529487v1)
+
+Vignon, E., N. Chiabrando, C. Agosta, C. Amory, V. Wiener, J. Charrel, T. Dubos and C. Genthon, 2026: Intermediate-complexity Parameterisation of Blowing Snow in the ICOLMDZ AGCM: development and first applications in Antarctica. *Geoscientific Model Development*, **19**, 239-259. doi:[10.5194/gmd-19-239-2026)](https://doi.org/10.5194/gmd-19-239-2026) [PDF](https://hal.science/hal-05509436v1)
+
+Vignon, E., L. Raillard, A. Borella, G. Rivière and J.-B. Madeleine, 2026: Modeling the Coupled and Decoupled states of Polar Boundary-Layer Mixed-Phase Clouds. *Atmospheric Chemistry and Physics*, **26**, 1847-1865. doi:[10.5194/acp-26-1847-2026](https://doi.org/10.5194/acp-26-1847-2026) [PDF](https://hal.science/hal-05352103v1)
 
 # 2025
+
+Torres, R., R. Waldman, G. Madec, C. de Lavergne, R. Séférian and J. Mak, 2025: An energetically and observationally constrained mesoscale parameterization for ocean climate models. *Journal of Advances in Modeling Earth Systems*, **17**, e2025MS005394. doi:[10.1029/2025MS005394](https://doi.org/10.1029/2025MS005394) [[PDF]](https://hal.science/hal-05562983v1)
 
 Bernard, E., R. Roehrig, F. Couvreux, G. Canut, C. Delire, F. Lohou, M. Lothon and B. Decharme, 2025: Process-level evaluation of the land-atmosphere interactions within CNRM-CM6-1 single-column model configuration. *Journal of Advances in Modeling Earth Systems*, **17**, e2025MS005090. doi:[10.1029/2025MS005090](https://doi.org/10.1029/2025MS005090) [[PDF]](https://hal.science/TRACCS-PC7-IMPRESSION-ESM/hal-05370480v1)
 
@@ -45,3 +55,9 @@ Charbit, S., C. Dumas, F. Maignan, C. Ottlé, N. Raoult, X. Fettweis and P. Cone
 Vignon, E., K. Arjdal, F. Cheruy, M. Coulon-Decorzens, C. Dehondt, T. Dubos, S. Fromang, F. Hourdin, L. Lange, L. Raillard, G. Rivière, R. Roehrig, A. Sima, A. Spiga and P. Tiengou, 2024: Designing a fully-tunable and versatile TKE-*l* turbulence parameterization for the simulation of stable boundary layers. *Journal of Advances in Modeling Earth Systems*, **16**(10), e2024MS004400. doi:[10.1029/2024MS004400](https://doi.org/10.1029/2024MS004400) [[PDF](https://hal.science/hal-04737007/file/Vignon_2024.pdf)]
 
 Séférian, R., T. Bossy, T. Gasser, Z. Nichols, K. Dorheim, X. Su, J. Tsutsui, Y. Santana-Falcon, 2024: Physical inconsistencies in the representation of the ocean heat-carbon nexus in simple climate models. *Communications Earth & Environment*, **5**, 291. doi:[10.1038/s43247-024-01464-x](https://dx.doi.org/10.1038/s43247-024-01464-x) [[PDF](https://hal.science/hal-04606231/file/s43247-024-01464-x.pdf)]
+
+## Other publications
+
+# 2026
+
+Clément, D., 2026: Rôle des interactions entre les flux de chaleur, d’eau et de quantité de mouvement à l’interface air-mer dans la représentation du climat. PhD thesis, Paris-Saclay, Versailles-Saint-Quentin-en-Yvelines, 228 pp.[[PDF]]()
