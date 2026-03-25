@@ -43,6 +43,7 @@ The project documents are accessible only upon request to <a href="mailto:romain
 - [Scientific description](https://sdrive.cnrs.fr/f/24222712)
 - [Data Management Plan](https://sdrive.cnrs.fr/f/115727070), initial version
 - Reporting: [2025](https://sdrive.cnrs.fr/f/210726455)
+- Deliverables: [TEMPLATE](https://sdrive.cnrs.fr/s/W3MLqeFQJKdKiLy)
 - Science Steering Committee [reports](https://sdrive.cnrs.fr/f/24225306):
     - 15 December 2023: [Discussion document](https://sdrive.cnrs.fr/f/24225772)
     - 6 June 2024: [Discussion document](https://sdrive.cnrs.fr/f/24256732), [Report](https://sdrive.cnrs.fr/f/125701196)
@@ -50,6 +51,7 @@ The project documents are accessible only upon request to <a href="mailto:romain
     - 6 March 2025: [Discussion document](https://sdrive.cnrs.fr/f/187380244), [Report](https://sdrive.cnrs.fr/f/200987772)
     - 6 June 2025: [Discussion document](https://sdrive.cnrs.fr/f/302205191), [Report](https://sdrive.cnrs.fr/f/302205276)
     - 8 December 2025: [Discussion document](https://sdrive.cnrs.fr/f/395277642), [Report](https://sdrive.cnrs.fr/f/395277641)
+    - 23 March 2026: [Discussion document](https://sdrive.cnrs.fr/f/472224902), [Report](https://sdrive.cnrs.fr/f/472225270)
 
 ## Contribute to the website
 
