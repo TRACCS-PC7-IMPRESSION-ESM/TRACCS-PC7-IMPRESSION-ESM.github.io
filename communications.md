@@ -30,15 +30,23 @@ Vignon, E. et al., 2025: Modeling the coupled and decoupled states of polar boun
 
 Roehrig, R. et al., 2025: Improvement of the land-atmosphere coupling within MOSAI. [*MOSAI*](https://mosai.aeris-data.fr/) *annual workshop*, 1-3 July 2025, Bordeaux, France. [PDF](https://sdrive.cnrs.fr/s/kdb2zY2m9H4YSZR)
 
+Tiengou, P., A. Ducharne, F. Cheruy F, 2025: Regional Impacts of Simulated Irrigation on ABL Structure in an Earth System Model. [*25th Symposium on Boundary Layers and Turbulence*](https://www.ametsoc.org/ams/meetings-events/ams-meetings/25th-symposium-on-boundary-layers-and-turbulence/), 17-20 June 2025, Torino, Italy. [link](https://ams.confex.com/ams/25BLT/meetingapp.cgi/Paper/461810)
+
+Maison, A., E. Bernard, F. Cheruy, F. Couvreux, R. Roehrig and G. Canut, 2025: A simplified land surface model to assess the representation of land-atmosphere coupling with surface heterogeneities. [*25th Symposium on Boundary Layers and Turbulence*](https://www.ametsoc.org/ams/meetings-events/ams-meetings/25th-symposium-on-boundary-layers-and-turbulence/), 17-20 June 2025, Torino, Italy. [link](https://ams.confex.com/ams/25BLT/meetingapp.cgi/Paper/461839)
+
 Dehondt, C., Braconnot, P., Fromang, S. and Marti, O., 2025: AMOC sensitivity to air-sea fluxes parametrization, [*EGU General Assembly 2025*](https://www.egu25.eu), 27 April-2 May 2025, Vienna, Austria. doi:[10.5194/egusphere-egu25-8009](https://doi.org/10.5194/egusphere-egu25-8009)
 
 Conesa, P., C. Agosta, S. Charbit, S. Beylat and C. Dumas, 2025: Dry snow densification over ice sheets in the ORCHIDEE land surface model. [*EGU General Assembly 2025*](https://www.egu25.eu), 27 April-2 May 2025, Vienna, Austria. doi:[10.5194/egusphere-egu25-8009](https://doi.org/10.5194/egusphere-egu25-3774)
 
 Conesa, P., 2025: Improvement of snowpack densification over ice sheets in ORCHIDEE. [*ISCLIM*](https://pepr-traccs.fr/projet/pc9-isclim/) *Spring meeting*, May 2025, Saclay, France.
 
+Ducharne, A., P. Huang, C. Mayaux, 2025: Evolutions futures des ressources en eau en France et conséquences possibles sur l’agriculture. [*Séance "Le cycle de l’eau bouleversé par les changements climatiques - Que sait-on ? Comment agir dans la concertation ?"*](https://www.academie-agriculture.fr/actualites/academie/seance/academie/le-cycle-de-leau-bouscule-par-les-changements-climatiques-que), Académie d'Agriculture de France, 9 April 2025, Paris, France. 
+
 Roehrig, R., M. Lothon and F. Lohou, et al. 2025: Measured and Simulated Turbulent Flux Over Heterogeneous Landscapes: The Model and Observation for Surface Atmosphere Interactions (MOSAI) Project.  [*ICAMS*](https://www.icams-portal.gov/) *Physics Interoperability Implementation Team* ([*PIIT*](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/451892)) *monthly seminar*, 21 February 2025, online. [Invited presentation](https://sdrive.cnrs.fr/s/7qXXmJnB6g2KDwB)
 
-Bernard, E., R. Roehrig, B. Decharme, F. Couvreux, C. Delire, G. Canut, F. Lohou, and M. Lothon, 2025: Single-column modeling framework for process-level evaluation of the land- atmosphere coupling in weather and climate models [*ICAMS*](https://www.icams-portal.gov/) *Physics Interoperability Implementation Team* ([*PIIT*](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/451892)) *monthly seminar*, 21 February 2025, online. [Invited presentation](https://sdrive.cnrs.fr/s/EifzoHBitGTTDJ9)
+Bernard, E., R. Roehrig, B. Decharme, F. Couvreux, C. Delire, G. Canut, F. Lohou, and M. Lothon, 2025: Single-column modeling framework for process-level evaluation of the land- atmosphere coupling in weather and climate models. [*ICAMS*](https://www.icams-portal.gov/) *Physics Interoperability Implementation Team* ([*PIIT*](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/451892)) *monthly seminar*, 21 February 2025, online. [Invited presentation](https://sdrive.cnrs.fr/s/EifzoHBitGTTDJ9)
+
+Maison, A., et al., 2025:Development of a simplified land surface model for use in a hierarchy of models. [*ICAMS*](https://www.icams-portal.gov/) *Physics Interoperability Implementation Team* ([*PIIT*](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/451892)) *monthly seminar*, 21 February 2025, online. [Invited presentation]()
 
 Jourdain, N. 2025: A la dérive - De 1986 à 2025, l’odyssée antarctique du méga iceberg A23a, qui menace les manchots de Géorgie du Sud, *Libération (Julie Renson Miquel)*, 2 February 2025 (Julie Renson Miquel, February 2025). [link](https://www.liberation.fr/environnement/biodiversite/de-1986-a-2025-lodyssee-antarctique-du-mega-iceberg-a23a-qui-menace-les-manchots-de-georgie-du-sud-20250202_NCTUWCXHEJFCVID35N5D5RK2QY/), [PDF](http://nicojourdain.github.io/img/libe_fev2025.pdf)
 
@@ -49,6 +57,10 @@ Conesa, P., 2025: Ice sheet firn densification in Orchidee. Viscosity parameteri
 Conesa, P. 2024: Ice-sheet firn densification in Orchidee. *LSCE Snow discussions*, 5-6 December 2024, Saclay, France
 
 Amory, C. 2024: In situ documentation of snow metamorphism for model evaluation. *LSCE Snow discussions*, 5-6 December 2024, Saclay, France.
+
+Bernard, E., et al., 2024: Single-column modeling framework for process-level evaluation of the land-atmosphere coupling in weather and climate models. [*CLASP*](https://www.gewex.org/panels/global-landatmosphere-system-study-panel/glass-projects/) *Webinar*, 14 November 2024, online
+
+Maison, A., et al., 2024: Development of a simplified land surface model for use in a hierarchy of models. [*CLASP*](https://www.gewex.org/panels/global-landatmosphere-system-study-panel/glass-projects/) *Webinar*, 14 November 2024, online.
 
 Roehrig, R., M. Vancoppenolle, N. Jourdain, et al., 2024: The TRACCS-PC7 IMPRESSION-ESM project: Improving the physical process representation in Earth systems models. [*39th annual meeting of the WGNE*](https://www.wcrp-esmo.org/events/wgne39-wgsip25-annual-meetings), 4-8 November 2024, Toulouse, France. [Invited presentation](https://sdrive.cnrs.fr/s/cQojTq8jHCsDkqD)
 
@@ -62,6 +74,8 @@ Roehrig, R., M. Lothon and F. Lohou, et al. 2024: Measured and Simulated Turbule
 
 Roehrig, R., 2024: Harnessing Machine Learning to Quantify the CNRM-CM6-1 Climate Model Parametric and Structural Errors with Respect to the Energy and Water Cycles. [*GEWEX Open Science Conference*](https://www.gewexevents.org/meetings/gewex-osc2024/), 8-12 July 2024, Sapporo, Japan. [Poster](https://www.gewexevents.org/index.php?gf-download=2024%2F07%2FTue-14-P27_Roehrig-Romain.pdf&form-id=154&field-id=15&hash=dfef445d22e49faec7617d291397f09246273a6163c557a7395470c3a3f0f4ca)
 
+Tiengou, P., F. Cheruy and A. Ducharne, 2024: Etude régionale des impacts simulés de l'irrigation sur les interactions surface-atmosphère. 5èmes Journées de Modélisation des Surfaces Continentales, 19-20 June 2024, Strasbourg, France.
+
 Roehrig, R., and A. Voldoire, 2024: Mass, water and energy conservation in the CNRM-CM6-1 atmospheric component. [*Physics-Dynamics Coupling workshop*](https://sites.google.com/view/pdc24), 18-20 June 2024, Exeter, UK. [Poster](https://sdrive.cnrs.fr/s/jX9TKpZQnL5deTj) 
 
 Roehrig, R., M. Vancoppenolle, N. Jourdain, et al., 2024: IMPRESSION-ESM: Improving the physical process representation in Earth system models. *Kick-off meeting of the TRACCS-PC8 CYCL-ESM project*, 14-15 June 2024, Toulouse, France. [Invited presentation](https://sdrive.cnrs.fr/s/YfiEy3sAZmcBMAr)
@@ -69,6 +83,10 @@ Roehrig, R., M. Vancoppenolle, N. Jourdain, et al., 2024: IMPRESSION-ESM: Improv
 Voldoire, A., 2024: Couplages dans le système climatique. *Journées annuelles du GDR Défis Théoriques pour les Sciences du Climat*, 27-29 May 2024, Grenoble, France. [Invited presentation]().
 
 Jourdain, N., 2024: La Terre au carré - À l’écoute des icebergs. *France Inter (Mathieu Vidard)*, 23 April 2024. [link](https://www.radiofrance.fr/franceinter/podcasts/la-terre-au-carre/la-terre-au-carre-du-mardi-23-avril-2024-4420496)
+
+Arboleda-Obando P., A. Ducharne, P. Tiengou and F. Cheruy, 2024: Effect of irrigation on joint evolution of water resources and hydroclimate variables under climate change. [*EGU General Assembly 2024*](https://www.egu24.eu/), 14-19 April, Vienna, Austria. doi:[10.5194/egusphere-egu24-16155](https://doi.org/10.5194/egusphere-egu24-16155)
+
+Tiengou, P., A. Ducharne, F. Cheruy, Y. Meurdesoif and P. Arboleda-Obando, 2024: Regional impacts of simulated irrigation in the IPSL climate model. [*EGU General Assembly 2024*](https://www.egu24.eu/), 14-19 April, Vienna, Austria. doi:[10.5194/egusphere-egu24-6236](https://doi.org/10.5194/egusphere-egu24-6236)
 
 Dehondt, C., Braconnot, P., Fromang, S., and Marti, O.: Feedbacks between turbulent air-sea fluxes and their role in the adjustment of the Earth Climate System. [*EGU General Assembly 2024*](https://www.egu24.eu/), 14-19 April, Vienna, Austria. doi:[10.5194/egusphere-egu24-11098](https://doi.org/10.5194/egusphere-egu24-11098)
 

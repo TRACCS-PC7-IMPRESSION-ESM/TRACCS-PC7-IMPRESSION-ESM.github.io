@@ -10,7 +10,7 @@ The IMPRESSION-ESM publication HAL collection can be found [here](https://hal.sc
 
 # Submitted
 
-Piton, V., H. Giordani, R. Bourdalle-Badie and C. Pelletier: First global assessment of the Eddy-Diffusivity Mass-Flux (EDMF) parameterization for oceanic convection in NEMO: implications for global temperature and surface heat fluxes. [preprint](https://doi.org/10.5194/egusphere-2026-640) [PDF](https://hal.science/hal-05529885v1)
+Piton, V., H. Giordani, R. Bourdalle-Badie and C. Pelletier: First global assessment of the Eddy-Diffusivity Mass-Flux (EDMF) parameterization for oceanic convection in NEMO: implications for global temperature and surface heat fluxes. [preprint](https://doi.org/10.5194/egusphere-2026-640) [[PDF]](https://hal.science/hal-05529885v1)
 
 Conesa, P., C. Agosta, S. Charbit, C. Dumas, S. Beylat and N. Raoult: Dry snow initialization and densification over the Greenland and Antarctic ice sheets in the ORCHIDEE land surface model. [preprint](https://doi.org/10.5194/egusphere-2025-5504)
 
@@ -24,15 +24,19 @@ Ortega, E., M. Vancoppenolle, C. Rousset and E. Lemaire: New Representation of S
 
 # 2026
 
-Vancoppenolle, M., N. C. Jourdain, T. Fichefet, A. D. Fraser, F. Massonnet, P. Mathiot, G. Madec, C. Mehlmann, A. Olivé Abelló, D. P. Atwater, S. Berthet, C. Billy, A. Brearley, J. Delfieu, Y. Kostov, E. Lemaire, J. M. Marson, J. Petit, N. Pirlet, P. Wongpan, C. Burgard, C. de Lavergne, P. R. Holland, K. Hutchinson, M. Noël, E. Ortega, E. Piedagnel, P. Rampal, C. Rousset, J.-B. Sallée and M. Thomas, 2025: Why icebergs and their interactions with sea ice should be included in Earth system models? *Bulletin of the American Meteorological Society*, in press. doi:[10.1175/BAMS-D-25-0322.1](https://doi.org/10.1175/BAMS-D-25-0322.1) [PDF](https://hal.science/TRACCS-PC7-IMPRESSION-ESM/hal-05397165v1)
+Vancoppenolle, M., N. C. Jourdain, T. Fichefet, A. D. Fraser, F. Massonnet, P. Mathiot, G. Madec, C. Mehlmann, A. Olivé Abelló, D. P. Atwater, S. Berthet, C. Billy, A. Brearley, J. Delfieu, Y. Kostov, E. Lemaire, J. M. Marson, J. Petit, N. Pirlet, P. Wongpan, C. Burgard, C. de Lavergne, P. R. Holland, K. Hutchinson, M. Noël, E. Ortega, E. Piedagnel, P. Rampal, C. Rousset, J.-B. Sallée and M. Thomas, 2025: Why icebergs and their interactions with sea ice should be included in Earth system models? *Bulletin of the American Meteorological Society*, in press. doi:[10.1175/BAMS-D-25-0322.1](https://doi.org/10.1175/BAMS-D-25-0322.1) [[PDF]](https://hal.science/TRACCS-PC7-IMPRESSION-ESM/hal-05397165v1)
 
-Kostov, Y., P. R. Holland, K. A. Hogan, J. A. Smith, N. C. Jourdain, P. Mathiot, A. Olivé Abelló, A. H. Fleming and A. J. S. Meijers, 2026: Modelled dynamics of floating and grounded icebergs, with application to the Amundsen Sea. *The Cryosphere*, **20**, 135-169. doi:[10.5194/tc-20-135-2026](https://doi.org/10.5194/tc-20-135-2026) [PDF](https://hal.science/hal-05529487v1)
+Kostov, Y., P. R. Holland, K. A. Hogan, J. A. Smith, N. C. Jourdain, P. Mathiot, A. Olivé Abelló, A. H. Fleming and A. J. S. Meijers, 2026: Modelled dynamics of floating and grounded icebergs, with application to the Amundsen Sea. *The Cryosphere*, **20**, 135-169. doi:[10.5194/tc-20-135-2026](https://doi.org/10.5194/tc-20-135-2026) [[PDF]](https://hal.science/hal-05529487v1)
 
-Vignon, E., N. Chiabrando, C. Agosta, C. Amory, V. Wiener, J. Charrel, T. Dubos and C. Genthon, 2026: Intermediate-complexity Parameterisation of Blowing Snow in the ICOLMDZ AGCM: development and first applications in Antarctica. *Geoscientific Model Development*, **19**, 239-259. doi:[10.5194/gmd-19-239-2026)](https://doi.org/10.5194/gmd-19-239-2026) [PDF](https://hal.science/hal-05509436v1)
+Vignon, E., N. Chiabrando, C. Agosta, C. Amory, V. Wiener, J. Charrel, T. Dubos and C. Genthon, 2026: Intermediate-complexity Parameterisation of Blowing Snow in the ICOLMDZ AGCM: development and first applications in Antarctica. *Geoscientific Model Development*, **19**, 239-259. doi:[10.5194/gmd-19-239-2026)](https://doi.org/10.5194/gmd-19-239-2026) [[PDF]](https://hal.science/hal-05509436v1)
 
-Vignon, E., L. Raillard, A. Borella, G. Rivière and J.-B. Madeleine, 2026: Modeling the Coupled and Decoupled states of Polar Boundary-Layer Mixed-Phase Clouds. *Atmospheric Chemistry and Physics*, **26**, 1847-1865. doi:[10.5194/acp-26-1847-2026](https://doi.org/10.5194/acp-26-1847-2026) [PDF](https://hal.science/hal-05352103v1)
+Vignon, E., L. Raillard, A. Borella, G. Rivière and J.-B. Madeleine, 2026: Modeling the Coupled and Decoupled states of Polar Boundary-Layer Mixed-Phase Clouds. *Atmospheric Chemistry and Physics*, **26**, 1847-1865. doi:[10.5194/acp-26-1847-2026](https://doi.org/10.5194/acp-26-1847-2026) [[PDF]](https://hal.science/hal-05352103v1)
 
 # 2025
+
+Arboleda-Obando, P. F., A. Ducharne, F. Cheruy and J. Ghattas, 2025: Joint evolution of irrigation, the water cycle and water resources under a strong climate change scenario from 1950 to 2100 in the IPSL-CM6. *Earth System Dynamics*, **16**, 2201–2223. doi:[10.5194/esd-16-2201-2025](https://doi.org/10.5194/esd-16-2201-2025). [[PDF]](https://hal.science/hal-05413341v1)
+
+Schmidt, G. A., K. D. Mankoff, J. L. Bamber, C. Burgard, D. Carroll, D. M. Chandler, V. Coulon, B. J. Davison, M. H. England, P. R. Holland, N. C. Jourdain, Q. Li, J. M. Marson, P. Mathiot, C. R. McMahon, T. A. Moon, R. Mottram, S. Nowicki, A. Olivé Abelló, A. G. Pauling, T. Rackow and D. Ringeisen, 2025: Datasets and protocols for including anomalous freshwater from melting ice sheets in climate simulations. *Geoscientific Model Development*, **18**, 8333–8361. doi:[10.5194/gmd-18-8333-2025](https://doi.org/10.5194/gmd-18-8333-2025) [[PDF]](https://hal.science/hal-05361516v1)
 
 Torres, R., R. Waldman, G. Madec, C. de Lavergne, R. Séférian and J. Mak, 2025: An energetically and observationally constrained mesoscale parameterization for ocean climate models. *Journal of Advances in Modeling Earth Systems*, **17**, e2025MS005394. doi:[10.1029/2025MS005394](https://doi.org/10.1029/2025MS005394) [[PDF]](https://hal.science/hal-05562983v1)
 
