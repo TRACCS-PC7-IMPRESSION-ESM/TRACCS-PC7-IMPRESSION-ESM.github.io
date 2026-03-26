@@ -24,6 +24,8 @@ Ortega, E., M. Vancoppenolle, C. Rousset and E. Lemaire: New Representation of S
 
 # 2026
 
+Philippot, N., F. Couvreux, C. Rio and M. Menegoz, 2026: A Parametrization of the Convective Boundary Layer with Subgrid Orography. *Journal of Atmospheric Sciences*, accepted.
+
 Vancoppenolle, M., N. C. Jourdain, T. Fichefet, A. D. Fraser, F. Massonnet, P. Mathiot, G. Madec, C. Mehlmann, A. Olivé Abelló, D. P. Atwater, S. Berthet, C. Billy, A. Brearley, J. Delfieu, Y. Kostov, E. Lemaire, J. M. Marson, J. Petit, N. Pirlet, P. Wongpan, C. Burgard, C. de Lavergne, P. R. Holland, K. Hutchinson, M. Noël, E. Ortega, E. Piedagnel, P. Rampal, C. Rousset, J.-B. Sallée and M. Thomas, 2025: Why icebergs and their interactions with sea ice should be included in Earth system models? *Bulletin of the American Meteorological Society*, in press. doi:[10.1175/BAMS-D-25-0322.1](https://doi.org/10.1175/BAMS-D-25-0322.1) [[PDF]](https://hal.science/TRACCS-PC7-IMPRESSION-ESM/hal-05397165v1)
 
 Kostov, Y., P. R. Holland, K. A. Hogan, J. A. Smith, N. C. Jourdain, P. Mathiot, A. Olivé Abelló, A. H. Fleming and A. J. S. Meijers, 2026: Modelled dynamics of floating and grounded icebergs, with application to the Amundsen Sea. *The Cryosphere*, **20**, 135-169. doi:[10.5194/tc-20-135-2026](https://doi.org/10.5194/tc-20-135-2026) [[PDF]](https://hal.science/hal-05529487v1)
