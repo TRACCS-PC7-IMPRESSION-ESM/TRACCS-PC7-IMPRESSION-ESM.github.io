@@ -34,6 +34,8 @@ Vignon, E., L. Raillard, A. Borella, G. Rivière and J.-B. Madeleine, 2026: Mode
 
 # 2025
 
+Yao, Y., W. Thiery, A. Ducharne, et al., 2025: Irrigation-induced land water depletion aggravated by climate change. *Nature Water*, **3**, 1424–1435. doi:[10.1038/s44221-025-00529-1](https://doi.org/10.1038/s44221-025-00529-1) [[PDF]](https://hal.science/TRACCS-PC7-IMPRESSION-ESM/hal-05351045v1)
+
 Arboleda-Obando, P. F., A. Ducharne, F. Cheruy and J. Ghattas, 2025: Joint evolution of irrigation, the water cycle and water resources under a strong climate change scenario from 1950 to 2100 in the IPSL-CM6. *Earth System Dynamics*, **16**, 2201–2223. doi:[10.5194/esd-16-2201-2025](https://doi.org/10.5194/esd-16-2201-2025). [[PDF]](https://hal.science/hal-05413341v1)
 
 Schmidt, G. A., K. D. Mankoff, J. L. Bamber, C. Burgard, D. Carroll, D. M. Chandler, V. Coulon, B. J. Davison, M. H. England, P. R. Holland, N. C. Jourdain, Q. Li, J. M. Marson, P. Mathiot, C. R. McMahon, T. A. Moon, R. Mottram, S. Nowicki, A. Olivé Abelló, A. G. Pauling, T. Rackow and D. Ringeisen, 2025: Datasets and protocols for including anomalous freshwater from melting ice sheets in climate simulations. *Geoscientific Model Development*, **18**, 8333–8361. doi:[10.5194/gmd-18-8333-2025](https://doi.org/10.5194/gmd-18-8333-2025) [[PDF]](https://hal.science/hal-05361516v1)
@@ -52,13 +54,19 @@ Burgard, C., N. C. Jourdain, C. Mosbeux, J. Caillet, P. Mathiot and C. Kittel, 2
 
 Borella, A., E. Vignon, O. Boucher, Y. Meurdesoif and L. Fairhead, 2025: A new prognostic parameterization of subgrid ice supersaturation and cirrus clouds in the ICOLMDZ AGCM. *Journal of Advances in Modeling Earth Systems*, **17**, e2024MS004918. doi:[10.1029/2024MS004918](https://doi.org/10.1029/2024MS004918) [[PDF]](https://hal.science/TRACCS-PC7-IMPRESSION-ESM/hal-05223259v1)
 
+Yao, Y., A. Ducharne, B. I. Cook, et al., 2025: Impacts of irrigation expansion on moist-heat stress based on IRRMIP results. *Nature Communication*, **16**, 1045. doi:[10.1038/s41467-025-56356-1](https://doi.org/10.1038/s41467-025-56356-1) [[PDF]](https://hal.science/TRACCS-PC7-IMPRESSION-ESM/hal-04764970v2)
+
 # 2024
 
 Charbit, S., C. Dumas, F. Maignan, C. Ottlé, N. Raoult, X. Fettweis and P. Conesa, 2024: Modelling snowpack on ice surface with the ORCHIDEE land surface model: application to the Greenland ice sheet. *The Cryosphere*, **18**, 5067-5099. doi:[10.5194/tc-18-5067-2024](https://doi.org/10.5194/tc-18-5067-2024) [[PDF](https://hal.science/hal-04779420v1/file/tc-18-5067-2024.pdf)]
 
 Vignon, E., K. Arjdal, F. Cheruy, M. Coulon-Decorzens, C. Dehondt, T. Dubos, S. Fromang, F. Hourdin, L. Lange, L. Raillard, G. Rivière, R. Roehrig, A. Sima, A. Spiga and P. Tiengou, 2024: Designing a fully-tunable and versatile TKE-*l* turbulence parameterization for the simulation of stable boundary layers. *Journal of Advances in Modeling Earth Systems*, **16**(10), e2024MS004400. doi:[10.1029/2024MS004400](https://doi.org/10.1029/2024MS004400) [[PDF](https://hal.science/hal-04737007/file/Vignon_2024.pdf)]
 
-Séférian, R., T. Bossy, T. Gasser, Z. Nichols, K. Dorheim, X. Su, J. Tsutsui, Y. Santana-Falcon, 2024: Physical inconsistencies in the representation of the ocean heat-carbon nexus in simple climate models. *Communications Earth & Environment*, **5**, 291. doi:[10.1038/s43247-024-01464-x](https://dx.doi.org/10.1038/s43247-024-01464-x) [[PDF](https://hal.science/hal-04606231/file/s43247-024-01464-x.pdf)]
+Séférian, R., T. Bossy, T. Gasser, Z. Nichols, K. Dorheim, X. Su, J. Tsutsui, Y. Santana-Falcon, 2024: Physical inconsistencies in the representation of the ocean heat-carbon nexus in simple climate models. *Communications Earth & Environment*, **5**, 291. doi:[10.1038/s43247-024-01464-x](https://dx.doi.org/10.1038/s43247-024-01464-x) [[PDF]](https://hal.science/hal-04606231/file/s43247-024-01464-x.pdf)
+
+Huang, P., A. Ducharne, L. Rinchiuso, J. Polcher, L. Baratgin, V. Bastrikov and E. Sauquet, 2024: Multi-objective calibration and evaluation of the ORCHIDEE land surface model over France at high resolution. *Hydrology and Earth System Sciences*, **28**, 4455–4476. doi:[10.5194/hess-28-4455-2024](https://doi.org/10.5194/hess-28-4455-2024) [[PDF]](https://hal.science/TRACCS-PC7-IMPRESSION-ESM/hal-04764953v1)
+
+Arboleda-Obando, P. F., A. Ducharne, Z. Yin and P. Ciais, 2024: Validation of a new global irrigation scheme in the land surface model ORCHIDEE v2.2. *Geoscientific Model Development*, **17**, 2141–2164. doi:[10.5194/gmd-17-2141-2024](https://doi.org/10.5194/gmd-17-2141-2024) [[PDF]](https://hal.science/TRACCS-PC7-IMPRESSION-ESM/hal-04511433v1)
 
 ## Other publications
 
