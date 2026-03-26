@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-The IMPRESSION-ESM publication HAL collection can be found [here](https://hal.science/TRACCS-PC7-IMPRESSION-ESM)
+The IMPRESSION-ESM publication HAL collection can be found [here](https://hal.science/TRACCS-PC7-IMPRESSION-ESM/browse/last)
 
 ## Peer reviewed publications
 
