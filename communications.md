@@ -36,7 +36,7 @@ Maison, A., E. Bernard, F. Cheruy, F. Couvreux, R. Roehrig and G. Canut, 2025: A
 
 Dehondt, C., Braconnot, P., Fromang, S. and Marti, O., 2025: AMOC sensitivity to air-sea fluxes parametrization, [*EGU General Assembly 2025*](https://www.egu25.eu), 27 April-2 May 2025, Vienna, Austria. doi:[10.5194/egusphere-egu25-8009](https://doi.org/10.5194/egusphere-egu25-8009)
 
-Conesa, P., C. Agosta, S. Charbit, S. Beylat and C. Dumas, 2025: Dry snow densification over ice sheets in the ORCHIDEE land surface model. [*EGU General Assembly 2025*](https://www.egu25.eu), 27 April-2 May 2025, Vienna, Austria. doi:[10.5194/egusphere-egu25-8009](https://doi.org/10.5194/egusphere-egu25-3774)
+Conesa, P., C. Agosta, S. Charbit, S. Beylat and C. Dumas, 2025: Dry snow densification over ice sheets in the ORCHIDEE land surface model. [*EGU General Assembly 2025*](https://www.egu25.eu), 27 April-2 May 2025, Vienna, Austria. doi:[10.5194/egusphere-egu25-3774](https://doi.org/10.5194/egusphere-egu25-3774)
 
 Conesa, P., 2025: Improvement of snowpack densification over ice sheets in ORCHIDEE. [*ISCLIM*](https://pepr-traccs.fr/projet/pc9-isclim/) *Spring meeting*, May 2025, Saclay, France.
 
