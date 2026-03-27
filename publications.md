@@ -58,7 +58,7 @@ Borella, A., E. Vignon, O. Boucher, Y. Meurdesoif and L. Fairhead, 2025: A new p
 
 Yao, Y., A. Ducharne, B. I. Cook, et al., 2025: Impacts of irrigation expansion on moist-heat stress based on IRRMIP results. *Nature Communication*, **16**, 1045. doi:[10.1038/s41467-025-56356-1](https://doi.org/10.1038/s41467-025-56356-1) [[PDF]](https://hal.science/TRACCS-PC7-IMPRESSION-ESM/hal-04764970v2)
 
-Gaillard, R., P. Peylin, P. Cadule, V. Bastrikov, F. Chéruy, A. Cuynet, J. Ghattas, D. Zhu and B. Guenet, 2025: Arctic soil carbon insulation averts large spring cooling from surface–atmosphere feedbacks. Proceedings of the National Academy of Sciences of the U.S.A.*, **122** (3), e2410226122. doi:[10.1073/pnas.2410226122](https://doi.org/10.1073/pnas.2410226122) [[PDF]](https://hal.science/hal-04929065v1)
+Gaillard, R., P. Peylin, P. Cadule, V. Bastrikov, F. Chéruy, A. Cuynet, J. Ghattas, D. Zhu and B. Guenet, 2025: Arctic soil carbon insulation averts large spring cooling from surface–atmosphere feedbacks. *Proceedings of the National Academy of Sciences of the U.S.A.*, **122** (3), e2410226122. doi:[10.1073/pnas.2410226122](https://doi.org/10.1073/pnas.2410226122) [[PDF]](https://hal.science/hal-04929065v1)
 
 # 2024
 
