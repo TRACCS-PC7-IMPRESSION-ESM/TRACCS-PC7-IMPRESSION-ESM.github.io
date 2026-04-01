@@ -42,7 +42,7 @@ If you want to check who is on this mailing list, you may follow this [link](htt
 The project documents are accessible only upon request to <a href="mailto:romain.roehrig@meteo.fr">Romain Roehrig</a>:
 - [Scientific description](https://sdrive.cnrs.fr/f/24222712)
 - [Data Management Plan](https://sdrive.cnrs.fr/f/115727070), initial version
-- Reporting: [2024](https://sdrive.cnrs.fr/f/477481269) [2025](https://sdrive.cnrs.fr/f/477494116)
+- Reporting: [2024](https://sdrive.cnrs.fr/f/477481269) &#124; [2025](https://sdrive.cnrs.fr/f/477494116)
 - Deliverables: [TEMPLATE](https://sdrive.cnrs.fr/s/W3MLqeFQJKdKiLy)
 - Science Steering Committee [reports](https://sdrive.cnrs.fr/f/24225306):
     - 15 December 2023: [Discussion document](https://sdrive.cnrs.fr/f/24225772)
