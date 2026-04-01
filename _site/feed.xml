@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Apr 2026 19:48:38 +0200</pubDate>
-    <lastBuildDate>Wed, 01 Apr 2026 19:48:38 +0200</lastBuildDate>
+    <pubDate>Wed, 01 Apr 2026 20:12:32 +0200</pubDate>
+    <lastBuildDate>Wed, 01 Apr 2026 20:12:32 +0200</lastBuildDate>
     <generator>Jekyll v4.3.4</generator>
     
       <item>
@@ -54,6 +54,41 @@
         <pubDate>Tue, 31 Mar 2026 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2026/03/31/Reporting-2025/</link>
         <guid isPermaLink="true">http://localhost:4000/2026/03/31/Reporting-2025/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Postdoc on numerical modeling of ocean-atmosphere and ocean-sea-ice-atmosphere interfaces</title>
+        <description>&lt;p&gt;Applications are invited for an IMPRESSION-ESM-funded 3-year PostDoc position at LSCE-IPSL, Paris-Saclay, France on the “physical and numerical representation of ocean-atmosphere and ocean-sea-ice-atmosphere interfaces in Earth System moddels”
+Details can be found at &lt;a href=&quot;https://pepr-traccs.fr/offre-emploi/chercheur-e-en-physique-et-numerique-et-aux-interfaces-ocean-atmosphere-et-ocean-glace-atmosphere-2/&quot;&gt;https://pepr-traccs.fr/offre-emploi/chercheur-e-en-physique-et-numerique-et-aux-interfaces-ocean-atmosphere-et-ocean-glace-atmosphere-2/&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 Mar 2026 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2026/03/30/PostDoc-LSCE-OA/</link>
+        <guid isPermaLink="true">http://localhost:4000/2026/03/30/PostDoc-LSCE-OA/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Filip, Gabriel, François and Thomas</title>
+        <description>&lt;p&gt;A few Master interships recently started within the framework of IMPRESSION-ESM:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Gabriel Clair (CNRM)is working on the parameterization of ice cloud longwave radiative properties in the ARPEGE-Climat models.&lt;/li&gt;
+  &lt;li&gt;François Chaffard (LOCEAN) is working on Antarctic downslope currents in NEMO.&lt;/li&gt;
+  &lt;li&gt;Thomas Gantz (LOCEAN) is working on vertical coordinates in NEMO.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Filip Kiala recently joint IPSL to work on the multi-tiling approach within the &lt;a href=&quot;https://orchidee.ipsl.fr/&quot;&gt;ORCHIDEE&lt;/a&gt; land surface model.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;« Après 4 ans au Laboratoire de Géologie de l’ENS Paris, je rejoins le programme TRACCS pour travailler sur l’avancement du modèle de surface terrestre ORCHIDEE. Mon postdoctorat contribuera à la transition vers un nouveau schéma de tuilage, améliorera la stabilité numérique des calculs d’hydrologie des sols, et étudiera l’effet du carbone du sol sur les propriétés hydrauliques des sols. »&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Welcome to all of them!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Mar 2026 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2026/03/15/New-Contributors/</link>
+        <guid isPermaLink="true">http://localhost:4000/2026/03/15/New-Contributors/</guid>
         
         
       </item>
@@ -190,44 +225,6 @@ Perspectives sur l’infrastructure numérique et computationnelle des modèles.
         <pubDate>Wed, 04 Jun 2025 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2025/06/04/Iceberg-Workshop/</link>
         <guid isPermaLink="true">http://localhost:4000/2025/06/04/Iceberg-Workshop/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Arthur Jardot, Grégoire Pain and Sujith Krishnakumar!</title>
-        <description>&lt;p&gt;Arthur Jardot has just started an intern position at CNRM to evaluate the capacity of a range of models (ARPEGE-Climat, LMDZ and km-scale Meso-NH) to represent the shallow-to-deep convection transition in four contrasted environnement.&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;« J’ai entamé un stage de césure sur la représentation de la transition entre convection peu profonde et profonde, notamment dans les modèles de climats et kilométriques. Étudiant en école d’ingénieur à l’ISAE-SUPAERO, je cherche à allier les connaissances acquises dans mon cursus avec mon éthique environnementale. »&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Grégoire Pain has joint the CNRM as a master intern to study boundary-layer processes along a forest-maize field edge, using both large-eddy simulations and observation from the &lt;a href=&quot;https://mosai.aeris-data.fr/&quot;&gt;MOSAI&lt;/a&gt; P2OA field campain.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://scholar.google.com/citations?user=OGX3dmMAAAAJ&amp;amp;hl=en&quot;&gt;Sujith Krishnakumar&lt;/a&gt; has just started a postdoctoral position at LSCE to work on the snow albedo parameterization in the IPSL climate model.&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;« I am currently working on physics based impure snow albedo development in ORCHIDEE of IPSL-CM model over the continental and glacier surfaces. I am always enthusiast about the model development of land surface process and coupled interaction with other components of earth system. »&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Welcome to all of them!&lt;/p&gt;
-</description>
-        <pubDate>Tue, 01 Apr 2025 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2025/04/01/New-Contributors/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/04/01/New-Contributors/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>The 2025 General Assembly</title>
-        <description>&lt;p&gt;The hybrid 2025 General Assembly gathered more than 30 people on 6-7 February! More information under the &lt;a href=&quot;/GAs&quot;&gt;GAs webpage&lt;/a&gt;.&lt;/p&gt;
-
-&lt;div&gt;
-&lt;img src=&quot;/img/GA2025.png&quot; width=&quot;100%&quot; /&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Fri, 07 Feb 2025 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2025/02/07/GA2025/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/02/07/GA2025/</guid>
         
         
       </item>
