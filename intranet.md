@@ -12,7 +12,7 @@ Any publication from the consortium should acknowledge the project funding as fo
 
 or in French
 
-> Ce travail a bénéficié d'une aide de l'État gérée par l'Agence National de la Recherche au titre de France 2030 portant la référence **ANR-22-EXTR-0008**
+> Ce travail a bénéficié d'une aide de l'État gérée par l'Agence Nationale de la Recherche au titre de France 2030 portant la référence **ANR-22-EXTR-0008**
 
 The following logo should be used in any communication:
 <img src="{{site.baseurl}}/img/FR2030_Climat_Couleur_RVB.png" width="30%" height="20%" />
