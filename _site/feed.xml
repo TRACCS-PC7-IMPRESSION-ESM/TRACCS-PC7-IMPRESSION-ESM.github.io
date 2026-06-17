@@ -6,9 +6,24 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Apr 2026 20:12:32 +0200</pubDate>
-    <lastBuildDate>Wed, 01 Apr 2026 20:12:32 +0200</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2026 15:16:23 +0200</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2026 15:16:23 +0200</lastBuildDate>
     <generator>Jekyll v4.3.4</generator>
+    
+      <item>
+        <title>The 2026 General Assembly</title>
+        <description>&lt;p&gt;The hybrid 2026 General Assembly gathered more than 40 people on 5-6 May! More information under the &lt;a href=&quot;/GAs&quot;&gt;GAs webpage&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div&gt;
+&lt;img src=&quot;/img/GA2026.jpg&quot; width=&quot;100%&quot; /&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 06 May 2026 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2026/05/06/GA2026/</link>
+        <guid isPermaLink="true">http://localhost:4000/2026/05/06/GA2026/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Scientific report on 2025 activities</title>
@@ -198,33 +213,6 @@ Details on the &lt;a href=&quot;https://www.umr-cnrm.fr/IMG/pdf/traccs-pc7_recru
         <pubDate>Fri, 18 Jul 2025 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2025/07/18/PhD-ConvectiveClouds/</link>
         <guid isPermaLink="true">http://localhost:4000/2025/07/18/PhD-ConvectiveClouds/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Iceberg and sea-ice workshop, 3-4 June 2025, Paris</title>
-        <description>&lt;p&gt;Les 3 et 4 juin, trente-trois chercheur.e.s venu.e.s de France, d’Australie, de Belgique, du Canada, du Royaume-Uni et d’Allemagne se sont réunis à Paris pour un atelier hybride consacré aux interactions entre icebergs et glace de mer, ainsi qu’à leur représentation dans les modèles climatiques.&lt;/p&gt;
-
-&lt;p&gt;Les icebergs et la glace de mer sont deux formes distinctes de glace dérivante dans l’océan, généralement représentées selon des approches de modélisation différentes. Les icebergs — de faible extension horizontale mais pouvant atteindre jusqu’à 500 m d’épaisseur — se détachent des plateformes de glace continentales et sont souvent modélisés comme des particules lagrangiennes. En revanche, la glace de mer, formée par le gel de l’eau de mer, couvre de vastes zones, est beaucoup plus mince (environ 1 m d’épaisseur) et est généralement représentée comme un continuum bidimensionnel dans les modèles.&lt;/p&gt;
-
-&lt;p&gt;Les modèles climatiques actuels considèrent en général que les interactions directes entre glace de mer et icebergs sont négligeables — une hypothèse sans doute valable pour l’Arctique, mais qui ne tient pas pour l’Antarctique. Il existe désormais des preuves claires que des phénomènes essentiels à la dynamique de la glace de mer et de l’océan, comme la glace de mer côtière (landfast) et les polynies, sont fortement influencés par les interactions dynamiques entre icebergs et glace de mer.&lt;/p&gt;
-
-&lt;p&gt;Plusieurs groupes de modélisation du système Terre à travers le monde, incluant les participant.e.s français.e.s à TRACCS s’emploient à intégrer des composants dynamiques des calottes glaciaires dans leurs modèles et à mieux représenter les interactions entre la glace d’origine continentale et les autres compartiments du système Terre. Cette dynamique a conduit à une série d’études récentes sur les icebergs, la glace de mer et leurs interactions, et a motivé l’organisation de cet atelier dans le cadre du projet ciblé TRACCS 7 IMPRESSION-ESM.&lt;/p&gt;
-
-&lt;p&gt;Les présentations de 13 intervenant.e.s invité.e.s — couvrant à la fois les aspects de modélisation et d’observation — ont servi de base aux discussions autour des thématiques suivantes :&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Icebergs, glace de mer, et leurs interactions ;
-Conséquences pour la dynamique océanique ;
-Perspectives sur l’infrastructure numérique et computationnelle des modèles.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Les discussions et les résultats de cet atelier seront diffusés ultérieurement via la liste de diffusion IMPRESSION-ESM et sur le site du projet.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 04 Jun 2025 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2025/06/04/Iceberg-Workshop/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/06/04/Iceberg-Workshop/</guid>
         
         
       </item>

@@ -4,6 +4,14 @@ title: Project General Assemblies
 permalink: /GAs/
 ---
 
+## 5-6 May 2026,Paris
+
+<div>
+<img src="{{site.baseurl}}/img/GA2026.jpg" width="100%" />
+</div>
+
+The 2026 General Assembly took place in Paris during 1.5 days on 5-6 May. The support of the Centre International de Conférence de Sorbonne Université and of the local organizers was greatly appreciated. The meeting agenda can be found [here](https://sdrive.cnrs.fr/s/nzoCe7LNij2n347). Presentations are accesible [here](https://sdrive.cnrs.fr/f/494031383) upon request, please contact <a href="mailto:romain.roehrig@meteo.fr">Romain Roehrig</a>. The [meeting report](https://sdrive.cnrs.fr/f/525762251) is also accessible upon request.
+
 ## 6-7 February 2025, Grenoble
 
 <div>
