@@ -8,7 +8,7 @@ permalink: /intranet/
 
 Any publication from the consortium should acknowledge the project funding as follows:
 
-> This study has received funding from Agence Nationale de la Recherche - France 2030 as part of the PEPR TRACCS programme under grand number **ANR-22-EXTR-0008**
+> This study has received funding from Agence Nationale de la Recherche - France 2030 as part of the PEPR TRACCS programme under grant number **ANR-22-EXTR-0008**
 
 or in French
 
