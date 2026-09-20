@@ -6,6 +6,8 @@ permalink: /communications/
 
 # 2026
 
+Séférian, R., J. Deshayes, M. Kageyama and A. Voldoire: 2026: Nouveautés des prochaines projections climatiques planétaires coordonnées par le CMIP6. *TRACCS Webinar*, 29 May 2026, online. [[PDF]](https://hal.science/TRACCS-PC7-IMPRESSION-ESM/hal-05714356v1) [replay](https://www.youtube.com/watch?v=0zg0HPkz7ek)
+
 Giordani, H., V. Piton and R. Bourdallé-Badie, 2026: The Eddy-Diffusivity Mass-Flux (EDMF) parameterization : An appropriate representation of convective and diffusive mixing in global ocean models. [*Ocean Sciences Meeting 2026*](https://www.agu.org/ocean-sciences-meeting), 22-27 February 2026, Glasgow, Scotland. [link](https://agu.confex.com/agu/osm26/meetingapp.cgi/Paper/2026480)
 
 Roehrig, R., M. Vancoppenolle, N. Jourdain, et al., 2026: TRACCS-PC7 - IMPRESSION-ESM: Improving the physical process representation in ESMs. [*TRACCS General Assembly 2026*](https://traccs-ag-2026.sciencesconf.org/?lang=fr), 3-5 February 2026, Paris, France. [PDF](https://sdrive.cnrs.fr/s/pRHEKyNz8Z2ZC4C)
@@ -23,6 +25,8 @@ Conesa, P., 2025: Dry snow densification over ice sheets in the ORCHIDEE land su
 Burgard, C., 2025: Sombre pronostic pour le continent blanc? Deux nouvelles études sur l'Antarctique font un constat glaçant. 10 November 2025. *Geo*. [link](https://www.geo.fr/environnement/sombre-pronostic-pour-le-continent-blanc-deux-nouvelles-etudes-sur-l-antarctique-font-un-constat-glacant-229390)
 
 Burgard, C., 2025: Une majorité de plateformes glaciaires de l’Antarctique menacées à long terme, dans un scénario pessimiste de poursuite du réchauffement climatique. *Le Monde*, 29 October 2025. [link](https://www.lemonde.fr/planete/article/2025/10/29/une-majorite-de-plateformes-glaciaires-de-l-antarctique-menacees-a-long-terme-dans-un-scenario-pessimiste-de-poursuite-du-rechauffement-climatique_6650190_3244.html)
+
+Voldoire, A., 2025: Modèles climatiques globaux : comment les améliorer ? *TRACCS Webinaire*, 19 September 2025, online. [[PDF]](https://hal.science/TRACCS-PC7-IMPRESSION-ESM/hal-05714347v1) [replay](https://www.youtube.com/watch?v=_0DgI80aDuQ)
 
 Raillard, L. et al., 2025: Advanced precipitation scheme in ICOLMDZ with improved microphysics and subgrid cloud-hydrometeor interactions to better simulate polar precipitation. *Polar Cordex Workshop*, 2025, Cambridge, UK.
 
