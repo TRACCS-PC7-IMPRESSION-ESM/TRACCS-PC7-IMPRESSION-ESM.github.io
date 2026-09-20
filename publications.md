@@ -12,11 +12,9 @@ The IMPRESSION-ESM publication HAL collection can be found [here](https://hal.sc
 
 Piton, V., H. Giordani, R. Bourdalle-Badie and C. Pelletier: First global assessment of the Eddy-Diffusivity Mass-Flux (EDMF) parameterization for oceanic convection in NEMO: implications for global temperature and surface heat fluxes. [preprint](https://doi.org/10.5194/egusphere-2026-640) [[PDF]](https://hal.science/hal-05529885v1)
 
-Conesa, P., C. Agosta, S. Charbit, C. Dumas, S. Beylat and N. Raoult: Dry snow initialization and densification over the Greenland and Antarctic ice sheets in the ORCHIDEE land surface model. [preprint](https://doi.org/10.5194/egusphere-2025-5504)
-
 Dehondt, C., P. Braconnot, O. Marti and S. Fromang: AMOC sensitivity to air-sea fluxes parametrization.  [preprint](https://www.researchsquare.com/article/rs-8609373/v1)
 
-Krinner, G., A. Champouillon, J. Blanchet and F. Chéruy: Iterative run-time bias corrections in an atmospheric GCM (LMDZ v6.3). [preprint](https://doi.org/10.5194/egusphere-2025-3553)
+Champouillon, A., G. Krinner and J. Blanchet: Intercomparison of run-time bias correction methods in LMDZ v6.3. [preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1380/)
 
 Pirlet, N., T. Fichefet, M. Vancoppenolle, C. de Lavergne and N. Jourdain: Effects of a landfast ice representation on Antarctic shelf water properties and ice shelf melt simulated by NEMO4-SI3. [preprint](https://dx.doi.org/10.22541/essoar.176218943.36540527/v1) 
 
@@ -24,7 +22,13 @@ Ortega, E., M. Vancoppenolle, C. Rousset and E. Lemaire: New Representation of S
 
 # 2026
 
-Philippot, N., F. Couvreux, C. Rio and M. Menegoz, 2026: A Parametrization of the Convective Boundary Layer with Subgrid Orography. *Journal of Atmospheric Sciences*, accepted.
+Ockenden, H., C. Burgard, P. Mathiot, C. Kittel, A. Gellens, C. Agosta and N. C. Jourdain, 2026: DeepMelt-GL v1: a neural network emulator of sub-shelf melt rates for the unrepresented regions of ice-shelf cavities in ocean models, *Geoscientific Model Development*, **19**, 7979–8002. doi:[10.5194/gmd-19-7979-2026](https://doi.org/10.5194/gmd-19-7979-2026) [[PDF]](https://hal.science/TRACCS-PC7-IMPRESSION-ESM/hal-05743340v1)
+
+Conesa, P., C. Agosta, S. Charbit, C. Dumas, S. Beylat and N. Raoult, 2026: Dry snow initialization and densification over the Greenland and Antarctic ice sheets in the ORCHIDEE land surface model. *The Cryosphere*, **20**, 4973-5003. doi:[10.5194/tc-20-4973-2026](https://doi.org/10.5194/tc-20-4973-2026) [[PDF]](https://hal.science/TRACCS-PC7-IMPRESSION-ESM/hal-05736938v1)
+
+Krinner, G., A. Champouillon, J. Blanchet and F. Chéruy, 2026: Iterative run-time bias corrections in an atmospheric GCM (LMDZ v6.3). *Geoscientific Model Development*, **19**, 4961-4975. doi:[10.5194/gmd-19-4961-2026](https://doi.org/10.5194/gmd-19-4961-2026) [[PDF]](https://hal.science/TRACCS-PC7-IMPRESSION-ESM/hal-05362583v1)
+
+Philippot, N., F. Couvreux, C. Rio and M. Menegoz, 2026: A Parametrization of the Convective Boundary Layer with Subgrid Orography. *Journal of Atmospheric Sciences*, **83**, 881-898. doi:[10.1175/JAS-D-25-0192.1](https://doi.org/10.1175/JAS-D-25-0192.1)
 
 Vancoppenolle, M., N. C. Jourdain, T. Fichefet, A. D. Fraser, F. Massonnet, P. Mathiot, G. Madec, C. Mehlmann, A. Olivé Abelló, D. P. Atwater, S. Berthet, C. Billy, A. Brearley, J. Delfieu, Y. Kostov, E. Lemaire, J. M. Marson, J. Petit, N. Pirlet, P. Wongpan, C. Burgard, C. de Lavergne, P. R. Holland, K. Hutchinson, M. Noël, E. Ortega, E. Piedagnel, P. Rampal, C. Rousset, J.-B. Sallée and M. Thomas, 2025: Why icebergs and their interactions with sea ice should be included in Earth system models? *Bulletin of the American Meteorological Society*, in press. doi:[10.1175/BAMS-D-25-0322.1](https://doi.org/10.1175/BAMS-D-25-0322.1) [[PDF]](https://hal.science/TRACCS-PC7-IMPRESSION-ESM/hal-05397165v1)
 
@@ -37,6 +41,8 @@ Vignon, E., L. Raillard, A. Borella, G. Rivière and J.-B. Madeleine, 2026: Mode
 # 2025
 
 Yao, Y., W. Thiery, A. Ducharne, et al., 2025: Irrigation-induced land water depletion aggravated by climate change. *Nature Water*, **3**, 1424–1435. doi:[10.1038/s44221-025-00529-1](https://doi.org/10.1038/s44221-025-00529-1) [[PDF]](https://hal.science/TRACCS-PC7-IMPRESSION-ESM/hal-05351045v1)
+
+Lohou, F., M. Lothon, S. Bastin, A. Brut, G. Canut, J.-M. Cohard, F. Cheruy, F. Couvreux, S. Dupont, S. Lafont, R. Roehrig, C. Román-Cascón, C. Yagüe, E. Bernard, A. Boone, J.-C. Dupont, A. Feofilov, R. Fernandes, M. Grulois, M. Jomé, A. Maison and M. Zouzoua, 2026: Model and Observation for surface–atmosphere interactions over heterogeneous landscape: MOSAI project. *Journal of the European Meteorological Society*, **3**, 10019. doi:[10.1016/j.jemets.2025.100019](https://doi.org/10.1016/j.jemets.2025.100019) [[PDF]](https://hal.science/TRACCS-PC7-IMPRESSION-ESM/hal-05269664v1)
 
 Arboleda-Obando, P. F., A. Ducharne, F. Cheruy and J. Ghattas, 2025: Joint evolution of irrigation, the water cycle and water resources under a strong climate change scenario from 1950 to 2100 in the IPSL-CM6. *Earth System Dynamics*, **16**, 2201–2223. doi:[10.5194/esd-16-2201-2025](https://doi.org/10.5194/esd-16-2201-2025). [[PDF]](https://hal.science/hal-05413341v1)
 
